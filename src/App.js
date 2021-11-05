@@ -1,6 +1,6 @@
 import React,{useState,useEffect,useContext}  from 'react'
 import {BrowserRouter,Route , Switch} from "react-router-dom"
-import Buy from './Components/Buy'
+import Buy from './Components/Buy';
 import Home from "./Components/Home"
 import ProtectedRoute from "./Components/ProtectedRoute"
 import Sell from './Components/Sell'
